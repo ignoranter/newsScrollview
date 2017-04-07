@@ -1,0 +1,17 @@
+//
+//  ChannelTop_Prefix.pch
+//  NewsChannelTop
+//
+//  Created by LiXiangming on 2017/4/4.
+//  Copyright © 2017年 XominLee. All rights reserved.
+//
+
+#ifndef ChannelTop_Prefix_pch
+#define ChannelTop_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import "CommenHeader.h"
+
+
+
+#endif /* ChannelTop_Prefix_pch */
